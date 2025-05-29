@@ -51,14 +51,4 @@ Check out the live demo here: [https://your-portfolio-url.com](https://your-port
 
 ---
 
-## Getting Started
 
-### Prerequisites
-
-Make sure you have Node.js (v20 or higher recommended) and npm installed.
-
-Check your Node.js version:
-
-```bash
-node -v
-# Portfolio
